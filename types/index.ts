@@ -6,6 +6,7 @@ export interface Page {
   category: string;
   tags: string[];
   content: string;
+  icon?: string;
   createdAt: string;
   updatedAt: string;
 }

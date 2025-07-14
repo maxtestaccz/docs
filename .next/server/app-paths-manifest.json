@@ -1,1 +1,6 @@
-{}
+{
+  "/not-found": "app/not-found.js",
+  "/page": "app/page.js",
+  "/docs/[slug]/page": "app/docs/[slug]/page.js",
+  "/admin/pages/new/page": "app/admin/pages/new/page.js"
+}
